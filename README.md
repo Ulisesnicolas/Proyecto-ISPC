@@ -53,8 +53,21 @@ Construir software de manera ágil se basa en hacerlo de manera iterativa e incr
 *El DoR es un documento que define cuándo un requerimiento (historia de usuario o similar) se considera listo para que el equipo de desarrollo pueda entenderlo*
 ###### Burndown Chart:
 *El Burndown Chart es un gráfico de trabajo pendiente a lo largo del tiempo que muestra la velocidad a la que se están completando los objetivos, requisitos, o historias de usuarios.*
+
 ###### Roles:
 
+**Product Owner**
 
+-.*El Product Owner es el encargado de optimizar y maximizar el valor del producto, siendo la persona encargada de gestionar el flujo de valor del producto a través del Product Backlog. Adicionalmente, es fundamental su labor como interlocutor con los stakeholders y sponsors del proyecto, así como su faceta de altavoz de las peticiones y requerimientos de los clientes. Si el Product Owner también juega el rol de representante de negocio, su trabajo también aportará valor al producto.*
+
+**Scrum Master**
+
+-.*El Scrum Master tiene dos funciones principales dentro del marco de trabajo: gestionar el proceso Scrum y ayudar a eliminar impedimentos que puedan afectar a la entrega del producto. Además, se encarga de las labores de mentoring y formación, coaching y de facilitar reuniones y eventos si es necesario.*
+
+**Development Team**
+
+-.*El equipo de desarrollo suele estar formado por entre 3 a 9 profesionales que se encargan de desarrollar el producto, auto-organizándose y auto-gestionándose para conseguir entregar un incremento de software al final del ciclo de desarrollo.
+El equipo de desarrollo se encargará de crear un incremento terminado a partir de los elementos del Product Backlog seleccionados (Sprint Backlog) durante el Sprint Planning.
+Es importante que en la metodología Scrum todos los miembros del equipo de desarrollo conozcan su rol, siendo solo uno común para todos*
 
 ###### Temas importantes del bloque I:
